@@ -1,0 +1,18 @@
+temp_station_id,lat_temp,lon_temp,airquality_o3_station,lat_o3,lon_o3,distance_km,AirQualityStationType,AirQualityStationArea,Altitude
+1550,47.483,11.0621,Garmisch-Partenkirchen/Wasserwerk,47.47706,11.05722,0.755481671,background,rural-nearcity,732
+5792,47.421,10.9848,Zugspitze Schneefernerhaus,47.41444,10.98066,0.793163751,background,rural-remote,2650
+5111,48.0311,12.5396,Trostberg/Schwimmbadstraße,48.02166,12.53817,1.055053176,background,suburban,488
+3379,48.1632,11.5429,München/Lothstraße,48.15453,11.55467,1.300615352,background,urban,521
+2261,50.3123,11.876,Hof/LfU,50.32061,11.89749,1.78383686,background,suburban,525
+2559,47.7233,10.3348,Kempten (Allgäu)/Westendstraße,47.72514,10.30656,2.122260006,background,suburban,678
+5397,49.6662,12.1844,Weiden i.d.OPf./Nikolaistraße,49.67895,12.15936,2.292764386,background,urban,400
+4592,49.3278,12.0871,Schwandorf/Wackersdorfer Straße,49.32196,12.12814,3.044373033,background,suburban,380
+5705,49.7704,9.9576,Würzburg/Kopfklinik,49.80469,9.95642,3.813814964,background,suburban,226
+7424,47.7724,12.9073,Bad Reichenhall/Kirchholzstraße,47.73344,12.89124,4.495452675,background,urban,469
+6347,50.0579,10.2972,Schweinfurt/Obertor,50.0484,10.23208,4.76778148,background,urban,231
+3668,49.503,11.0549,Nürnberg/Muggenhof,49.46223,11.0248,5.027933783,background,urban,300
+151,49.4691,11.8546,Sulzbach-Rosenberg/Lohe,49.48798,11.78634,5.359831041,background,suburban,393
+1279,49.6497,11.0075,Erlangen/Kraepelinstraße,49.60591,10.96353,5.808553285,background,suburban,284
+232,48.4253,10.9417,Augsburg/Bourges-Platz,48.37658,10.88837,6.696908109,background,urban,477
+3739,49.4521,12.4365,Tiefenbach/Altenschneeberg,49.43846,12.54887,8.264273934,background,rural-regional,755
+2410,48.7111,11.5363,Vohburg a.d. Donau/Alter Wöhrer Weg,48.76711,11.63833,9.734951684,background,suburban,355
